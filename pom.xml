@@ -7,7 +7,7 @@
     <groupId>com.atguigu</groupId>
     <artifactId>springBoot_02</artifactId>
     <packaging>pom</packaging>
-    <version>1.0-SNAPSHOT</version>
+    <version>0.0.1</version>
     <modules>
         <module>springboot-01-cache</module>
         <module>springboot-02-amqp</module>
@@ -18,9 +18,18 @@
         <module>springboot-07-deploy</module>
         <module>springboot-08-actuator</module>
         <module>springboot-09-activemq</module>
-        <module>dubbo-demo</module>
-        <module>springboot-dubbo-demo</module>
+        <module>springboot-10-download</module>
+        <module>springboot-dubbo</module>
+        <module>springboot-springSecurity</module>
+        <module>springboot-shiro</module>
+        <module>spring-boot-pay</module>
+        <module>springboot-knife4j</module>
+        <module>springboot-11-redis</module>
+        <module>springboot-12-elasticsearch</module>
+        <module>springboot-13-mongodb</module>
+        <module>springboot-14-rabbitMQ</module>
+        <module>springboot-15-oss</module>
+        <module>springboot-16-minio</module>
+        <module>springboot-11-redis_02</module>
     </modules>
-
-
 </project>

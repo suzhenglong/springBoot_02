@@ -9,11 +9,12 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>springboot-06-dubbo</artifactId>
+    <artifactId>springboot-dubbo</artifactId>
     <packaging>pom</packaging>
     <modules>
-        <module>consumer-user</module>
-        <module>provider-ticket</module>
+        <module>dubbo-demo-api</module>
+        <module>dubbo-demo-consumer</module>
+        <module>dubbo-demo-provider</module>
     </modules>
 
 
